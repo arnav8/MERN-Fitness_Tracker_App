@@ -148,5 +148,6 @@ export default class EditExercise extends Component {
       </form>
     </div>
     )
+    
   }
 }
